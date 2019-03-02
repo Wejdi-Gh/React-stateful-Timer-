@@ -1,0 +1,44 @@
+.time{
+  font-size: 80px;
+  width: 300px;
+  margin-bottom: 0;
+}
+
+.text{
+  font-size: 20px;
+color: grey;
+width: 300px;
+margin-top: 0px;
+display: flex;
+justify-content: space-between;
+}
+
+.timer{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+height:80vh;
+}
+
+.timercontrol input {
+cursor: pointer;
+width: 200px;
+height: 40px;
+font-size: 20px;
+ margin : 20px;
+}
+
+.millisecondsinput {
+  width: 150px;
+  height: 60px;
+  margin-top : 10px;
+ border : 3px solid lightseagreen ;
+text-align: center;
+font-size: 16px;
+}
+.label{
+
+  font-size: 20px;
+  color: grey;
+}
